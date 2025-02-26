@@ -1,3 +1,6 @@
+#Dataset used available at: https://gist.githubusercontent.com/stephenturner/806e31fce55a8b7175af/raw/1a507c4c3f9f1baaa3a69187223ff3d3050628d4/results.txt
+#For Dataset Description, visit: https://github.com/HackBio-Internship/public_datasets/blob/main/R/nhanes_dd.csv
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
