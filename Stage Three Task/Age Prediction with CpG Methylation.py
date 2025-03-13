@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 
-df = pd.read_csv("/content/CpGmeth2Age.csv")
+df = pd.read_csv("https://github.com/uwidia/HackBio-Internship/raw/refs/heads/main/Stage%20Three%20Task/compressed_data.csv.gz", compression="gzip")
 
 df.head()
 
